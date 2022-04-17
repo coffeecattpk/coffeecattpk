@@ -1,6 +1,6 @@
 ### Greetings! ###
 
-I am Buğrahan and I'm an electrical-electronics engineer from Turkey. I mostly work on Python, MATLAB, HDL and C/C++. I also enjoy gathering data and data sets. You can reach me from my [LinkedIn](https://www.linkedin.com/in/yasin-bu%C4%9Frahan-tapik/) account.
+I am Buğrahan and I'm an electronics engineer from Turkey. I mostly work on Python, MATLAB, HDL and C/C++. I also enjoy gathering data and data sets. You can reach me from my [LinkedIn](https://www.linkedin.com/in/yasin-bu%C4%9Frahan-tapik/) account.
 
 ----------------------------------
 
